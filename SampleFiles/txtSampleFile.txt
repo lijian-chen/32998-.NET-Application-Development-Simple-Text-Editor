@@ -1,0 +1,9 @@
+This is a .txt file, and yes, this file was created by using the SaveAs function
+
+Other existing usernames you can use to login are:
+ - Username: admin - Password: admin
+ - Username: guest - Password: 1234
+
+We have more users registered than this! Please read the README.txt file :-p
+
+Oh yeah, there is a .rtf sample file as well, it is right in the SampleFiles folder!

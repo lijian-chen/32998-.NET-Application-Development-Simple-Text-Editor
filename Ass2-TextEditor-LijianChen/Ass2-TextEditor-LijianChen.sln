@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ass2-TextEditor-LijianChen", "Ass2-TextEditor-LijianChen\Ass2-TextEditor-LijianChen.csproj", "{7F44B59B-3233-4643-AEA3-BD27E0014C7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F44B59B-3233-4643-AEA3-BD27E0014C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F44B59B-3233-4643-AEA3-BD27E0014C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F44B59B-3233-4643-AEA3-BD27E0014C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F44B59B-3233-4643-AEA3-BD27E0014C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59460D53-F7E9-4382-81E6-F234F8CC4F22}
+	EndGlobalSection
+EndGlobal
